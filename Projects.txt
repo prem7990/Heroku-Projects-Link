@@ -1,0 +1,10 @@
+	Deployment for herokuapp.com	
+
+
+1.>	https://anjalirestro.herokuapp.com/
+2.>	https://anjalirestroapp.herokuapp.com/
+3.>	https://smsedu.herokuapp.com/
+4.>	https://tictactoe-prem.herokuapp.com/
+5.>	https://todo-prem.herokuapp.com/
+6.> 	https://premblog.herokuapp.com/
+7.>	https://premblogapp.herokuapp.com/
